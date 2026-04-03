@@ -7,3 +7,5 @@ abstract class OrderState extends Equatable {
 
 class OrderInitial extends OrderState {}
 
+class OrderLoading extends OrderState {}
+
