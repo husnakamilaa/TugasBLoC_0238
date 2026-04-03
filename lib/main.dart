@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:state_management/auth/login.dart';
+import 'package:state_management/mainui/home.dart';
+import 'package:state_management/page/order_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -30,7 +33,12 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      initialRoute: '/login',
+      routes: {
+        '/login': (context) => const LoginPage(),
+        '/home': (context) => const HomePage(),
+        '/order': (context) => const OrderPage(),
+      },
     );
   }
 }
