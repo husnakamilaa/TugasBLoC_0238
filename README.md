@@ -1,17 +1,20 @@
-# state_management
+Nama   : Husna Kamila Syahida<br>
+NIM    : 20230140238<br>
+Kelas  : A<br>
 
-A new Flutter project.
+# Navigation Dokumentation 
 
-## Getting Started
+<div align="center">
+  
+| **Register** | **Login** |
+|:----------------------:|:----------------------:|
+|<img width="300" alt="image" src="https://github.com/user-attachments/assets/f910c96f-90e9-40ae-a328-8b4876b64361" />|<img width="300" alt="image" src="https://github.com/user-attachments/assets/57eed051-5a1f-4ce6-9999-9d8e8d2b5f08" />|
+| **Home** | **Logout** |
+|<img width="300" alt="image" src="https://github.com/user-attachments/assets/e9391891-1afb-4761-8235-38f20998eb8e" />|<img width="300" alt="image" src="https://github.com/user-atts/assets/cce44b91-2bf4-44d6-b49e-96d702e23faa" />|
+| **Order Page** | **Detail Order Page** |
+|<img width="300" alt="image" src="https://github.com/user-attachments/assets/121ef500-464b-4dd8-aacf-efb89bd63083" />|<img width="300" alt="image" src="https://github.com/user-attachments/assets/b2a9e763-3517-4cca-99c7-dc447f796c73" />|
+| **Before Order(homepage)** | **After Order(homepage)** |
+|<img width="300" alt="image" src="https://github.com/user-attachments/assets/e9391891-1afb-4761-8235-38f20998eb8e" />|<img width="300" alt="image" src="https://github.com/user-attachments/assets/c56cc9dc-12fe-481c-9292-9d05b33d4eb4" />
 
-This project is a starting point for a Flutter application.
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
